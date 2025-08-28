@@ -1,0 +1,15 @@
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\bin\Debug\net9.0\appconsola.exe
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\bin\Debug\net9.0\appconsola.deps.json
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\bin\Debug\net9.0\appconsola.runtimeconfig.json
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\bin\Debug\net9.0\appconsola.dll
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\bin\Debug\net9.0\appconsola.pdb
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.AssemblyInfoInputs.cache
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.AssemblyInfo.cs
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.csproj.CoreCompileInputs.cache
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.sourcelink.json
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.dll
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\refint\appconsola.dll
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.pdb
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\appconsola.genruntimeconfig.cache
+C:\Users\juandiego\Desktop\JuanDiego_Osorio_productos\appconsola\obj\Debug\net9.0\ref\appconsola.dll
