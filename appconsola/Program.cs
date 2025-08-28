@@ -7,10 +7,12 @@ Cliente clientes = new Cliente() {id_cliente = 1, nombre = "julio", apellidos = 
 Productos productos1 = new Productos() {id_producto = 1, nombre = "balon de basketball", precio = 120000 };
 Productos productos2 = new Productos() {id_producto = 2, nombre = "buso nike", precio = 2000000 };
 Productos productos3 = new Productos() {id_producto = 3, nombre = "computador lenovo", precio = 2800000 };
+Productos productos4 = new Productos() {id_producto = 4, nombre = "mouse gamer", precio = 250000 };
 List<Productos> productos = new List<Productos>();
 productos.Add(productos1);
 productos.Add(productos2);
 productos.Add(productos3);
+productos.Add(productos4);
 List<Empleados> empleados = new List<Empleados>();
 empleados.Add(empleados1);
 int tot = 0;
